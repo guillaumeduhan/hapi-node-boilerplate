@@ -1,6 +1,6 @@
 # Hapi Node boilerplate v1.0.0.
 
-![Hapi-Node-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2019/12/hapi-node-logo.png)
+![Hapi-Node-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2019/12/hn.png)
 
 Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality - your code, your way.
 
