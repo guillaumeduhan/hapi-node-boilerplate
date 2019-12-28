@@ -1,5 +1,5 @@
 /*
- * hapi-firebase-boilerplate
+ * hapi-node-boilerplate
  * 2020 Guillaume Duhan <myhappyagency@gmail.com>
  * MIT License
  */
