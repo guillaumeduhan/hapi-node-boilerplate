@@ -1,3 +1,7 @@
+/**
+ * Router
+ */
+
 'use strict'
 
 const routes = [].concat(
