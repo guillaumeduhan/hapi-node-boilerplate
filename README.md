@@ -1,4 +1,4 @@
-# Hapi Node boilerplate v1.0.0.
+# Hapi Node boilerplate 1.0.0.
 
 ![Hapi-Node-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2019/12/hn.png)
 
