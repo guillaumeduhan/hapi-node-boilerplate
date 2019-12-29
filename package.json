@@ -1,7 +1,7 @@
 {
-  "name": "Hapi-Boilerplate",
+  "name": "Hapi-Node-Boilerplate",
   "version": "1.0.0",
-  "description": "Hapi boilerplate by Guillaume Duhan, 2020.",
+  "description": "Hapi Node Boilerplate by Guillaume Duhan, 2020.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
