@@ -1,4 +1,4 @@
-# Hapi Node 2020.
+# Hapi Node Boilerplate 2020
 
 ![Hapi-Node-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2020/01/hapi-node.png)
 
